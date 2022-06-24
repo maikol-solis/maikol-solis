@@ -22,4 +22,3 @@ jobs:
           filename: metrics-base.svg
           base: header, activity, repositories
           config_timezone: America/Costa_Rica
-          plugin_isocalendar: yes
