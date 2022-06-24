@@ -20,5 +20,6 @@ jobs:
           user: maikol-solis
           template: classic
           filename: metrics-base.svg
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories
           config_timezone: America/Costa_Rica
+          plugin_isocalendar: yes
