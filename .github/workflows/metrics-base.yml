@@ -20,5 +20,5 @@ jobs:
           user: maikol-solis
           template: classic
           filename: metrics-base.svg
-          base: header, activity, community, repositories
+          base: header, activity, community, repositories, metadata
           config_timezone: America/Costa_Rica
