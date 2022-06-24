@@ -1,11 +1,8 @@
 
 
-<a href="https://github.com/maikol-solis/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maikol-solis&count_private=true&show_icons=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/maikol-solis/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikol-solis&layout=compact" />
-</a>
+<a href="https://metrics.lecoq.io/about/maikol-solis"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
+<a href="https://metrics.lecoq.io/about/maikol-solis"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
+<a href="https://metrics.lecoq.io/about/maikol-solis"><img src="metrics-calendar.svg" align="left" width="100%"></img></a>
 
 <!--
 ![Maikol's github stats](https://github-readme-stats.vercel.app/api?username=maikol-solis&count_private=true&show_icons=true&include_all_commits=true)
