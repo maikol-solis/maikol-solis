@@ -21,5 +21,4 @@ jobs:
           filename: metrics-activity.svg
           config_timezone: America/Costa_Rica
           plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_activity_limit: 10
