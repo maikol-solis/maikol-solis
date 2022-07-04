@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="387" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="768" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,236 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 18 commits in
+                                        <span class="repo">maikol-solis/doomemacs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ess-refactor</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fb9b380</div>
+                                        <div class="message">feat(ess): add lsp-mode client for TRAMP projects</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f05f5c8</div>
+                                        <div class="message">feat(ess): add popup rules for ESS buffers
+
+This a first try. We can tweak them if there are better choices for each
+rule.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#74a0040</div>
+                                        <div class="message">perf(ess): make REPL *R* buffer more responsive</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2af0044</div>
+                                        <div class="message">nit(ess): reformat keybinds</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b87a9d</div>
+                                        <div class="message">feat(ess): add proper indentation with roxygen</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5a94cf1</div>
+                                        <div class="message">feat(ess): add company-R-library backend</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4bb80aa</div>
+                                        <div class="message">refactor!(ess): deprecate ess-R-data-view
+
+BREAKING CHANGE: This changes `ess-R-data-view` by `ess-view-data` given
+the extensive support for multiple backends like base, dplyr, DT, kable,
+etc. Also, it seems that `ess-R-data-view` is in an unmaintained/stale
+state.
+
+myuhe/ess-R-data-view.el@d6e98d3ae1e2 -&gt; ShuguangSun/ess-view-data@6277684e06d5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6cb2c6e</div>
+                                        <div class="message">fix(cli): recognize global options for pseudo CLIs
+
+The global options (like --debug and --pager) weren't recognized for
+pseudo command like :help and :version (in particular, rendering --pager
+ineffective).
+
+Fix: #6526</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af4c18e</div>
+                                        <div class="message">fix(cli): recognize command argument for --pager
+
+--pager incorrectly expected a boolean argument, when it should accept
+any arbitrary pager command (set to a blank string to disable the
+pager).
+
+Ref: #6526</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#442d607</div>
+                                        <div class="message">fix: remove outdated uses of user-emacs-directory
+
+Doom changes user-emacs-directory (see 46844b5 for explanation), so
+doom-emacs-dir should be used to refer to your $EMACSDIR instead.
+
+Fix: #6530
+Ref: 46844b55de0e</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5a98d59</div>
+                                        <div class="message">perf(evil): lazy load evil-collection-shortdoc
+
+Another package that Emacs loads eagerly at startup, that ends up
+pulling in evil-collection et co.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d0d90e</div>
+                                        <div class="message">revert: refactor(lib): remove doom-apply-ansi-color-to-compilation-buffer-h
+
+ansi-color-compilation-filter wasn't introduced until Emacs 28, so this
+removal was too hasty, but should be reconsidered when we drop 27.x
+support.
+
+Fix: #6515
+Revert: 2f7171bf8a5f</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cbc3c08</div>
+                                        <div class="message">fix(vertico): unrecognized keyword :function error
+
+Due to upstream change to consult-async-split-styles-alist.
+
+Ref: minad/consult@dbe48621f3f6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14b2395</div>
+                                        <div class="message">refactor: remove unused core variables
+
+doom-debug-p and doom-interactive-p have always been intentionally
+redundant, because changing the variables they replaced had other
+side-effects, which made writing tests for them difficult. Since our
+new (yet unpublished) tests lean heavily toward integration testing more
+than unit testing, this becomes an implementation detail.
+
+And doom-init-p's only use was refactor out at some point in the past,
+so it's no longer used.
+
+Also done to reduce Doom's footprint, in general.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#74cc541</div>
+                                        <div class="message">refactor(literate): DRY tangling
+
+And remove unused cache file.
+
+Ref: #6281</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2f8476</div>
+                                        <div class="message">fix(macos): void-variable newwindow? error
+
+Amend: ec2062f51773</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc32e2e</div>
+                                        <div class="message">tweak(mu4e): increase human-date to fit full time
+
+Messages from the current day do not fit with the current width since
+they are formatted as times (Ex: "05:17:23 PM"). The increase to 12
+matches the mu4e defaults.
+
+Amend: d1ba626a2a4b</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#facab56</div>
+                                        <div class="message">bump: :lang fsharp
+
+fsharp/emacs-fsharp-mode@b3aa4c53fc9e -&gt; fsharp/emacs-fsharp-mode@c1e58c61f9b5
+
+- Fix issue causing the inferior-buffer to block when adding nuget
+  packages.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#6455 refactor(ess): update ess module </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by maikol-solis in <span class="repo">doomemacs/doomemacs</span></div>
+                                    <div class="comment">Thanks @hlissner for all your suggestions. I fixed all the problems in the commits. 
+In the next days, I will experiment with other fixes in the module.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">maikol-solis/doomemacs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ess-refactor</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#413263d</div>
+                                        <div class="message">feat(ess): add lsp-mode client for TRAMP projects</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b1771c</div>
+                                        <div class="message">feat(ess): add popup rules for ESS buffers
+
+This a first try. We can tweak them if there are better choices for each
+rule.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f965838</div>
+                                        <div class="message">perf(ess): make REPL *R* buffer more responsive</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#276c657</div>
+                                        <div class="message">nit(ess): reformat keybinds</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1724d9</div>
+                                        <div class="message">feat(ess): add proper indentation with roxygen</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4965c19</div>
+                                        <div class="message">feat(ess): add company-R-library backend</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa0f51f</div>
+                                        <div class="message">refactor!(ess): deprecate ess-R-data-view
+
+BREAKING CHANGE: This changes `ess-R-data-view` by `ess-view-data` given
+the extensive support for multiple backends like base, dplyr, DT, kable,
+etc. Also, it seems that `ess-R-data-view` is in an unmaintained/stale
+state.
+
+myuhe/ess-R-data-view.el@d6e98d3ae1e2 -&gt; ShuguangSun/ess-view-data@6277684e06d5</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -51,70 +281,6 @@
                                     <div class="commit">
                                         <div class="sha">#c9d9282</div>
                                         <div class="message">Update metrics-activity.yml</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">maikol-solis/maikol-solis</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4cd0699</div>
-                                        <div class="message">Update metrics-activity.yml</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#6076 The function lookup/synonyms doesn't work (no thesaurus backend is available)</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by jozilla in <span class="repo">doomemacs/doomemacs</span></div>
-                                    <div class="comment">
-                                        Apparently not. I have these lines in my
-                                        <code>init.el</code>
-                                        and still I have put
-                                        <code>synosaurus</code>
-                                        manually in my
-                                        <code>package.el</code>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">maikol-solis/spatgeom</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#86a713c</div>
-                                        <div class="message">dev: send package to CRAN [2022-07-02]</div>
                                     </div>
                                 </div>
                             </section>
