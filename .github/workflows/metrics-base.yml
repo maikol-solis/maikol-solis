@@ -34,4 +34,5 @@ jobs:
           # LANGUAGES
           plugin_languages: yes
           plugin_languages_threshold: 2%
+          plugin_languages_details: percentage
           
