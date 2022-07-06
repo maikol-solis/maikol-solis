@@ -31,4 +31,6 @@ jobs:
           repositories: 200
           # ISO CALENDAR
           plugin_isocalendar: yes
+          # LANGUAGES
+          plugin_languages: yes
           
