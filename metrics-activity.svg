@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="290" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1052" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.rss{align-items:flex-start}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,426 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 90 commits in
+                                        <span class="repo">maikol-solis/doomemacs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ess-refactor</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b5fd085</div>
+                                        <div class="message">tweak(default): consult-flymake in a branch of +default-diagnostics
+
+when available instead of plain flymake-show-diagnostics-buffer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5bbc299</div>
+                                        <div class="message">docs(sh): add doctor check for shfmt</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e478f59</div>
+                                        <div class="message">bump: :lang lua
+
+https://git.sr.ht/~technomancy/fennel-mode@50ef3c6246f3 -&gt; https://git.sr.ht/~technomancy/fennel-mode@566435734946
+
+A fix was added upstream to fix `fennel-repl` no longer returning the
+repl buffer. This fixes `+eval-open-repl` in fennel-mode.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53452f4</div>
+                                        <div class="message">bump: :tools tree-sitter
+
+emacs-tree-sitter/elisp-tree-sitter@3cfab8a0e945 -&gt; emacs-tree-sitter/elisp-tree-sitter@c3fe96a103a7
+meain/evil-textobj-tree-sitter@0bf5bbbfecba -&gt; meain/evil-textobj-tree-sitter@9dce8dab68c9
+
+This *should* fix issues with pulling down parsers for M1 macs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da628a7</div>
+                                        <div class="message">docs(tree-sitter): remove mention of keys mode
+
+This is no longer in the module
+
+also change highlighting link</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b3857d</div>
+                                        <div class="message">fix(python): conflicting pyimport-remove-unused keybind
+
+Binding for `pyimport-remove-unused` clashes with `py-isort-region`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d15022d</div>
+                                        <div class="message">fix(pass): enable evil-collection bindings
+
+- Pass was launched in emacs-state because evil-collection didn't
+  support pass when the module was written, but it does now.
+- It also removes stale code relative to the PASSWORD_STORE_DIR
+  environment variable, since the password store path is not hardcoded in
+  pass.el anymore.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b636d9e</div>
+                                        <div class="message">fix: strip './' from projectile file list produced by fd
+
+Fix: #6504
+Ref: bbatsov/projectile#1784</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#acd7db1</div>
+                                        <div class="message">feat(dart): add &amp; improve keybinds for flutter</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#467761e</div>
+                                        <div class="message">bump: :completion vertico
+
+minad/consult@b15c81f7766a -&gt; minad/consult@6319aec3513c
+minad/marginalia@26f2bd9ee7b6 -&gt; minad/marginalia@69442c2d9472
+minad/vertico@e5935b5bbfc0 -&gt; minad/vertico@2ad46196653b
+oantolin/embark@97270d725761 -&gt; oantolin/embark@5d0459d27aa7
+oantolin/orderless@75eeae21971d -&gt; oantolin/orderless@8b9af2796fa0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f730cb</div>
+                                        <div class="message">bump: :lang scala
+
+scala/lsp-metals@b7f77de69431 -&gt; scala/lsp-metals@097d6021a4ff
+
+Ref: emacs-lsp/lsp-metals#73</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b076140</div>
+                                        <div class="message">fix(mu4e): support mu 1.8
+
+Thanks to some combination of ignorance and obstinance, mu4e has thrown
+compatibility to the wind and completely ignored the exitance of
+define-obsolete-function-alias. Coupled with the inconsistent/partial
+function renaming, this has made the mu4e 1.6⟶1.8 change particularly
+annoying to deal with.
+
+By suffering the pain of doing the mu4e author's work for them, we can
+use defalias to give backwards compatibility a good shot for about 60
+functions. Some mu4e~x functions are now mu4e--x, others are unchanged,
+and then you've got a few odd changes like mu4e~proc -&gt; mu4e--server and
+mu4e-search-rerun. The form of message :from entries has also changed,
+and a new (mu4e) entrypoint added supplanting mu4e~start.
+
+Fix: #6511
+Close: #6549
+Co-authored-by: Rahguzar &lt;aikrahguzar@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#33c5f37</div>
+                                        <div class="message">fix(cli): __DOOMPIPE+=0: not found errors
+
+The string append operator is a bashism, and therefore is not POSIX
+complaint. It will throw errors when /bin/sh isn't symlinked to bash.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ec60d9</div>
+                                        <div class="message">fix(evil): evil-collection-occur -&gt; evil-collection-replace
+
+evil-collection-occur.el was moved to evil-collection-replace.el in
+emacs-evil/evil-collection@79fc09b01403.
+
+Fix: #6495
+Close: #6524
+Ref: emacs-evil/evil-collection@79fc09b01403
+Co-authored-by: DeesonGao &lt;DeesonGao@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd8fb00</div>
+                                        <div class="message">fix(cli): validation for regexp arguments
+
+string-match-p throws an error if given an invalid regexp, which is what
+we *should* be testing for, not its return value (which should be
+ignored), but this wasn't the case before this commit.
+
+Fix: #6534</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#acae9f9</div>
+                                        <div class="message">bump: :tools lsp
+
+emacs-lsp/lsp-mode@6b6afc00deec -&gt; emacs-lsp/lsp-mode@3fa645c0397b
+joaotavora/eglot@e835996e1661 -&gt; joaotavora/eglot@bd970be047ab
+
+- There are multiple issues in the lsp-mode
+  repo (emacs-lsp/lsp-mode#2722), lsp-julia repo (gdkrmr/lsp-julia#23
+  and gdkrmr/lsp-julia#35), and the LanguageServer.jl
+  repo (julia-vscode/LanguageServer.jl#844) about crashes of the Julia
+  LSP with lsp-mode due to errors caused by the folding capabilities
+  announced by the client. One can work around these issues by enabling
+  folding (see gdkrmr/lsp-julia#23) but that is only a hack and does not
+  fix the underlying issue. The problem is caused by a violation of the
+  LSP specs in lsp-mode which was fixed in emacs-lsp/lsp-mode#3593. The
+  PR updates lsp-mode to the latest commit on the master branch which
+  contains this fix (and some other unrelated fixes, CI passes
+  successfully again), and hence the workaround for lsp-julia can be
+  removed.
+
+Ref: emacs-lsp/lsp-mode#3593
+Ref: emacs-lsp/lsp-mode#2722
+Ref: gdkrmr/lsp-julia#35
+Ref: gdkrmr/lsp-julia#23
+Ref: julia-vscode/LanguageServer.jl#844
+Close: #6516
+Co-authored-by: devmotion &lt;devmotion@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e4a1e4c</div>
+                                        <div class="message">fix(rss): *rss* workspace doesn't exist error
+
+Co-authored-by: Johnson Liu &lt;buyandrep@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e35cc0d</div>
+                                        <div class="message">release(modules): 22.07.0-dev
+
+Ref: 2b39e4136850</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#94a4a7a</div>
+                                        <div class="message">fix(cli): display global options in --help output
+
+Global options were omitted in help output for subcommands before this
+fix. This caused #6533, where the user was unable to find the correct
+option to suppress prompts because 'doom upgrade --help' would not show
+--force/-!, but 'doom --help' would. Still, it's unreasonable to expect
+the user to know this beforehand.
+
+Ref: #6533</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#38a3a50</div>
+                                        <div class="message">fix(cli): void-function always
+
+`always` was added in Emacs 28 and is unavailable to 27.x users, which
+is unacceptable while Doom supports 27.x.
+
+Fix: #6532
+Amend: 74cc541597bd</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 81 commits in
+                                        <span class="repo">maikol-solis/doomemacs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ess-refactor</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4f01966</div>
+                                        <div class="message">tweak(default): consult-flymake in a branch of +default-diagnostics
+
+when available instead of plain flymake-show-diagnostics-buffer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6fef918</div>
+                                        <div class="message">docs(sh): add doctor check for shfmt</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#32b23e5</div>
+                                        <div class="message">bump: :lang lua
+
+https://git.sr.ht/~technomancy/fennel-mode@50ef3c6246f3 -&gt; https://git.sr.ht/~technomancy/fennel-mode@566435734946
+
+A fix was added upstream to fix `fennel-repl` no longer returning the
+repl buffer. This fixes `+eval-open-repl` in fennel-mode.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1266426</div>
+                                        <div class="message">bump: :tools tree-sitter
+
+emacs-tree-sitter/elisp-tree-sitter@3cfab8a0e945 -&gt; emacs-tree-sitter/elisp-tree-sitter@c3fe96a103a7
+meain/evil-textobj-tree-sitter@0bf5bbbfecba -&gt; meain/evil-textobj-tree-sitter@9dce8dab68c9
+
+This *should* fix issues with pulling down parsers for M1 macs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4ab5ef</div>
+                                        <div class="message">docs(tree-sitter): remove mention of keys mode
+
+This is no longer in the module
+
+also change highlighting link</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#042a480</div>
+                                        <div class="message">fix(python): conflicting pyimport-remove-unused keybind
+
+Binding for `pyimport-remove-unused` clashes with `py-isort-region`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c036b18</div>
+                                        <div class="message">fix(pass): enable evil-collection bindings
+
+- Pass was launched in emacs-state because evil-collection didn't
+  support pass when the module was written, but it does now.
+- It also removes stale code relative to the PASSWORD_STORE_DIR
+  environment variable, since the password store path is not hardcoded in
+  pass.el anymore.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d862231</div>
+                                        <div class="message">fix: strip './' from projectile file list produced by fd
+
+Fix: #6504
+Ref: bbatsov/projectile#1784</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a59202</div>
+                                        <div class="message">feat(dart): add &amp; improve keybinds for flutter</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c79d896</div>
+                                        <div class="message">bump: :completion vertico
+
+minad/consult@b15c81f7766a -&gt; minad/consult@6319aec3513c
+minad/marginalia@26f2bd9ee7b6 -&gt; minad/marginalia@69442c2d9472
+minad/vertico@e5935b5bbfc0 -&gt; minad/vertico@2ad46196653b
+oantolin/embark@97270d725761 -&gt; oantolin/embark@5d0459d27aa7
+oantolin/orderless@75eeae21971d -&gt; oantolin/orderless@8b9af2796fa0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7d0f3a</div>
+                                        <div class="message">bump: :lang scala
+
+scala/lsp-metals@b7f77de69431 -&gt; scala/lsp-metals@097d6021a4ff
+
+Ref: emacs-lsp/lsp-metals#73</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72b28a9</div>
+                                        <div class="message">fix(mu4e): support mu 1.8
+
+Thanks to some combination of ignorance and obstinance, mu4e has thrown
+compatibility to the wind and completely ignored the exitance of
+define-obsolete-function-alias. Coupled with the inconsistent/partial
+function renaming, this has made the mu4e 1.6⟶1.8 change particularly
+annoying to deal with.
+
+By suffering the pain of doing the mu4e author's work for them, we can
+use defalias to give backwards compatibility a good shot for about 60
+functions. Some mu4e~x functions are now mu4e--x, others are unchanged,
+and then you've got a few odd changes like mu4e~proc -&gt; mu4e--server and
+mu4e-search-rerun. The form of message :from entries has also changed,
+and a new (mu4e) entrypoint added supplanting mu4e~start.
+
+Fix: #6511
+Close: #6549
+Co-authored-by: Rahguzar &lt;aikrahguzar@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b036345</div>
+                                        <div class="message">fix(cli): __DOOMPIPE+=0: not found errors
+
+The string append operator is a bashism, and therefore is not POSIX
+complaint. It will throw errors when /bin/sh isn't symlinked to bash.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4413daa</div>
+                                        <div class="message">fix(evil): evil-collection-occur -&gt; evil-collection-replace
+
+evil-collection-occur.el was moved to evil-collection-replace.el in
+emacs-evil/evil-collection@79fc09b01403.
+
+Fix: #6495
+Close: #6524
+Ref: emacs-evil/evil-collection@79fc09b01403
+Co-authored-by: DeesonGao &lt;DeesonGao@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec927aa</div>
+                                        <div class="message">fix(cli): validation for regexp arguments
+
+string-match-p throws an error if given an invalid regexp, which is what
+we *should* be testing for, not its return value (which should be
+ignored), but this wasn't the case before this commit.
+
+Fix: #6534</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80ead93</div>
+                                        <div class="message">bump: :tools lsp
+
+emacs-lsp/lsp-mode@6b6afc00deec -&gt; emacs-lsp/lsp-mode@3fa645c0397b
+joaotavora/eglot@e835996e1661 -&gt; joaotavora/eglot@bd970be047ab
+
+- There are multiple issues in the lsp-mode
+  repo (emacs-lsp/lsp-mode#2722), lsp-julia repo (gdkrmr/lsp-julia#23
+  and gdkrmr/lsp-julia#35), and the LanguageServer.jl
+  repo (julia-vscode/LanguageServer.jl#844) about crashes of the Julia
+  LSP with lsp-mode due to errors caused by the folding capabilities
+  announced by the client. One can work around these issues by enabling
+  folding (see gdkrmr/lsp-julia#23) but that is only a hack and does not
+  fix the underlying issue. The problem is caused by a violation of the
+  LSP specs in lsp-mode which was fixed in emacs-lsp/lsp-mode#3593. The
+  PR updates lsp-mode to the latest commit on the master branch which
+  contains this fix (and some other unrelated fixes, CI passes
+  successfully again), and hence the workaround for lsp-julia can be
+  removed.
+
+Ref: emacs-lsp/lsp-mode#3593
+Ref: emacs-lsp/lsp-mode#2722
+Ref: gdkrmr/lsp-julia#35
+Ref: gdkrmr/lsp-julia#23
+Ref: julia-vscode/LanguageServer.jl#844
+Close: #6516
+Co-authored-by: devmotion &lt;devmotion@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4d2af2</div>
+                                        <div class="message">fix(rss): *rss* workspace doesn't exist error
+
+Co-authored-by: Johnson Liu &lt;buyandrep@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c19d9ac</div>
+                                        <div class="message">release(modules): 22.07.0-dev
+
+Ref: 2b39e4136850</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f183661</div>
+                                        <div class="message">fix(cli): display global options in --help output
+
+Global options were omitted in help output for subcommands before this
+fix. This caused #6533, where the user was unable to find the correct
+option to suppress prompts because 'doom upgrade --help' would not show
+--force/-!, but 'doom --help' would. Still, it's unreasonable to expect
+the user to know this beforehand.
+
+Ref: #6533</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1920a72</div>
+                                        <div class="message">fix(cli): void-function always
+
+`always` was added in Emacs 28 and is unavailable to 27.x users, which
+is unacceptable while Doom supports 27.x.
+
+Fix: #6532
+Amend: 74cc541597bd</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
