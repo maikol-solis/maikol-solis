@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1433" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1763" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,118 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 17 commits in
+                                        <span class="repo">maikol-solis/doomemacs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ess-refactor</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#84bed8d</div>
+                                        <div class="message">feat(ess): add ess-r-insert-obj package
+
+Utilities to help inserting variable (column) names or values in ESS.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e2fd7a0</div>
+                                        <div class="message">feat(ess): add ess-smart-equals packages
+
+This package auto-inserts assignation operators (`&lt;-`, `&lt;&lt;-` or `=`)
+after pressing `=`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6267547</div>
+                                        <div class="message">feat(ess): add lsp-mode client for TRAMP projects</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f6274a</div>
+                                        <div class="message">feat(ess): add popup rules for ESS buffers
+
+This a first try. We can tweak them if there are better choices for each
+rule.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b3aa13</div>
+                                        <div class="message">perf(ess): make REPL *R* buffer more responsive</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c4803db</div>
+                                        <div class="message">nit(ess): reformat keybinds</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee732b1</div>
+                                        <div class="message">feat(ess): add proper indentation with roxygen</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25f1db7</div>
+                                        <div class="message">feat(ess): add company-R-library backend</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d272ad8</div>
+                                        <div class="message">refactor!(ess): deprecate ess-R-data-view
+
+BREAKING CHANGE: This changes `ess-R-data-view` by `ess-view-data` given
+the extensive support for multiple backends like base, dplyr, DT, kable,
+etc. Also, it seems that `ess-R-data-view` is in an unmaintained/stale
+state.
+
+myuhe/ess-R-data-view.el@d6e98d3ae1e2 -&gt; ShuguangSun/ess-view-data@6277684e06d5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5554420</div>
+                                        <div class="message">release(modules): 22.08.0-dev
+
+Ref: 2b39e4136850</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fc73a81</div>
+                                        <div class="message">docs: add appendix.org</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0cee8b4</div>
+                                        <div class="message">docs: rewrite faq.org</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed04aef</div>
+                                        <div class="message">docs: add PR ref to #+since lines</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3eb6f66</div>
+                                        <div class="message">docs(bidi): update READMEs to new format
+
+Also preforms minor spelling, grammar, and formatting corrections.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b59b9a</div>
+                                        <div class="message">docs(fortran,graphql): update READMEs to new format
+
+Also preforms minor spelling, grammar, and formatting corrections.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#304774c</div>
+                                        <div class="message">docs(biblio,tree-sitter): update READMEs to new format
+
+Also preforms minor spelling, grammar, and formatting corrections.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d6ffd2b</div>
+                                        <div class="message">fix(file-templates): update doom doc templates
+
+To reflect the new mode: line added in 7e400ab, and add an ID property.
+Also corrects heading level in __doom-readme file template.
+
+Ref: 7e400abdc00e</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
