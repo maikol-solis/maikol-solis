@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1073" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="740" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,23 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#158 How to put the signature above the reply in org-msg?</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">jeremy-compostella/org-msg</span></div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -218,209 +235,6 @@ after pressing `=`.</div>
 
 This a first try. We can tweak them if there are better choices for each
 rule.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 77 commits in
-                                        <span class="repo">maikol-solis/doomemacs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">ess-refactor</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b6ba120</div>
-                                        <div class="message">fix(file-templates): unescaped periods in regexps</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ca74a1</div>
-                                        <div class="message">feat(file-templates): add .doomrc template
-
-Ref: 9b8ed397e8e7</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f43c3e</div>
-                                        <div class="message">fix(docs): org-glossary init
-
-- Set org-glossary-global-terms buffer-locally,
-- Move org-glossary init into a hook.
-- Remove unneeded (require 'ox) (see tecosaur/org-glossary#6),
-
-Ref: tecosaur/org-glossary#6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ec9e7e</div>
-                                        <div class="message">nit(docs): reformat and annotate
-
-- Rename doom-docs--display-header-h -&gt; doom-docs--display-menu-h to
-  better represent what it does.
-- Add comments to describe the purpose of lib/docs, and TODO annotations
-  to hint at its future and remind me later.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#034ade0</div>
-                                        <div class="message">fix(lib): doom-debug-mode forgetting initial values
-
-Of the variables that it changes (see doom-debug-variables).</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48e54d3</div>
-                                        <div class="message">dev: add CODEOWNERS config to .doomrc &amp; regenerate it</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b8ed39</div>
-                                        <div class="message">feat!(cli): load project .doomrc instead of ci.el
-
-BREAKING CHANGE: Before, 'doom ci' would load
-$GIT_WORKING_TREE/.github/ci.el, to give users/projects an opportunity
-to provide project-local configuration for bin/doom (mainly for CI/CD).
-Now, this ci.el file is no longer loaded and instead, *all* bin/doom
-sessions will walk up the file tree and load the first .doomrc it finds.
-
-This gives bin/doom users a more general place configure all of its
-commands, and not just 'doom ci' commands.
-
-Extras:
-- Adds .doomrc to auto-mode-alist (so that it starts in
-  emacs-lisp-mode).</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#422baed</div>
-                                        <div class="message">refactor(cli): load cli libs from doom.el
-
-This simplifies the entry point for loading Doom (and/or its CLI
-framework).</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50f0ceb</div>
-                                        <div class="message">feat(cli): generalize 'doom make codeowners'
-
-- Adds -o/--file option,
-- If -o/--file is passed a dash, print codeowners to stdout,
-- Adds --dryrun option,
-- Will accept literal string entries in doom-make-codeowners as
-  standalone lines (useful for comments).</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d92a81b</div>
-                                        <div class="message">feat(lib): add lib/git
-
-Where future git wrappers will live.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7b2563</div>
-                                        <div class="message">feat(cli): add implicit date, time, duration, &amp; size types</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#790c2a6</div>
-                                        <div class="message">fix(eval): eros overlay going off-screen
-
-Evaluating code (and :tools (eval +overlay) enabled) will do one of two
-things with the return value:
-
-If long, it will be displayed in a popup window on the bottom of the
-frame. If short (&lt;3-4 lines), it will be displayed in an overlay at the
-end of the line.
-
-If you happened to have scrolled horizontally (such that the BOL isn't
-visible), the overlay would be displayed offscreen and unreadable. Any
-attempt to scroll it into view will cause it to disappear (as per its
-transient nature). This fix pads each newline in said overlay such that
-the overlay is pushed into view.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e5acbd7</div>
-                                        <div class="message">docs(cli): make file/dir/stdout type errors consistent</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d53e087</div>
-                                        <div class="message">feat(cli): add stdout implicit arg type
-
-CLIs can now use this for implicit validation for options that take a
-file path or - to signal "print to stdout", like so:
-
-  (defcli! (doom command) ((outfile ("--out" (file stdout))))
-    (if (equal outfile "-")
-        (print! "output")
-      (with-temp-file outfile
-        (insert "output"))))
-
-If OUTFILE is not an existing file path or a -, you'll see an this
-helpful error:
-
-  Error: -o/--file received invalid value "FOO"
-
-  Validation errors:
-  - Must be a dash to signal stdout.
-  - File does not exist.
-
-  See 'doom h[elp] make codeowners' or 'doom make codeowners {-?,--help}' for documentation.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26bc4ea</div>
-                                        <div class="message">feat(cli): allow multiple implicit types for options
-
-Now you can specify more than one allowed (implicit) for a CLI option:
-
-  (defcli! (doom somecommand) ((foo ("--foo" (file int)))))
-
-This will test FOO to ensure it is either an existing file path or an
-integer. If neither is true, you'll see this helpful error:
-
-  Error: -o/--file received invalid value "FOO"
-
-  Validation errors:
-  - Not an integer.
-  - Not a valid path to an existing file.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#057e6c5</div>
-                                        <div class="message">refactor: replace doom-enlist with ensure-list
-
-doom-enlist is now a deprecated alias for ensure-list, which is built
-into Emacs 28.1+ and is its drop-in replacement. We've already
-backported it for 27.x users in doom-lib (in 4bf4978).
-
-Ref: 4bf49785fdeb</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1abcf91</div>
-                                        <div class="message">revert: fix(docs): set mode in file-local vars
-
-emacs-straight/org-mode@e22b4eb7aab9 introduced a breaking change that
-made it impossible to rely on .dir-locals.el to change org-mode buffers
-in $EMACSDIR to doom-docs-org-mode (without infinite recursion), so we
-used file-local variables in 7e400ab.
-
-emacs-straight/org-mode@215de6176b22 reverted that change, so we can use
-.dir-locals.el again, and this is my preference, since it requires less
-boilerplate across our hundreds of org files.
-
-Ref: emacs-straight/org-mode@215de6176b22
-Ref: emacs-straight/org-mode@e22b4eb7aab9
-Revert: 7e400abdc00e</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#53fb367</div>
-                                        <div class="message">docs(lsp): fix typo in quote &amp; use correct icon
-
-Amend: c34168fb2ac9
-Co-authored-by: lelit &lt;lelit@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ed2b95</div>
-                                        <div class="message">refactor(cli): include envvars in _doomrun debug logs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#725de1c</div>
-                                        <div class="message">perf(docs): disable gc for doom-docs-org-mode</div>
                                     </div>
                                 </div>
                             </section>
