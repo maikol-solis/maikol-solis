@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1158" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1549" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,323 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 44 commits in
+                                        <span class="repo">maikol-solis/doomemacs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ess-refactor</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#05d06cc</div>
+                                        <div class="message">tweak(lib): suppress GC logging in debug mode
+
+It happens so often it can overwhelm the echo area. It's still logged
+to *Messages* however.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d290152</div>
+                                        <div class="message">refactor(lib): replace doom-debugger with advice
+
+Writing a debugger for Elisp is too much hassle. `debug` itself isn't
+very customizable without a *lot* of boilerplate, so instead of writing
+my own, it's more effective to advise debug instead. Certainly, I don't
+do anything with it yet, but I will soon.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b66ccae</div>
+                                        <div class="message">fix(agda): tree-sitter compatibility with agda2-mode
+
+Tree-sitter-lang recognized agda-mode, but not agda2-mode.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#49f4ec3</div>
+                                        <div class="message">feat(tree-sitter): add set-tree-sitter-lang! autodef</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#151300e</div>
+                                        <div class="message">feat(cli): deny XDG, Wayland, Sway, + socket envvars
+
+Additional envvars that would not be helpful to persist.
+
+Ref: https://discourse.doomemacs.org/t/3088</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c59fe85</div>
+                                        <div class="message">dev: handle blank shell.nix inputs properly
+
+If doomdir, emacsdir, and/or doomlocaldir were blank, / would be treated
+as their value, which will fail in some spectacular (and some quiet)
+ways.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5b0d5d</div>
+                                        <div class="message">dev: update shell.nix
+
+To include a wider selection of Emacs versions.
+
+Also makes 28.1 the default version.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c747d21</div>
+                                        <div class="message">refactor(cli): throw error if Doom fails to load</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3505e66</div>
+                                        <div class="message">fix: failure to load doom libs on 27.x
+
+Emacs 27.x does not collapse consecutive slashes in a file path when
+trying to load them, and instead discards everything before it and
+treats the rest as an absolute path, e.g. "~/some//path/foo/" -&gt;
+"/path/foo". This is not the case in 28.1, but Doom's backport of
+file-name-concat did not take this into account, so it's been modified
+to trim trailing slashes.
+
+Fix: #6766
+Amend: 433c9e344d46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb80d46</div>
+                                        <div class="message">fix(lib): void-function macroexp-file-name error
+
+This function was introduced in Emacs 28.1, so 7e0c2ed was a breaking
+change for 27.x users.
+
+Fix: #6766
+Amend: 7e0c2ed8a333</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e931ec</div>
+                                        <div class="message">fix: file-missing errors while trying to build packages
+
+This is caused by a bug in recent builds of Emacs 29, where
+`loaddefs-generate` will activate emacs-lisp-mode to read a package's
+autoloads, but does so without suppressing its mode hooks. Other
+packages may add functions to this hook from their autoloads (like
+overseer.el does). Calling these functions will initiate a chain
+reaction where other packages will be loaded (plus their dependencies),
+but aren't guaranteed to be available so early in the bootstrap process.
+The result are file-missing errors about seemingly unrelated packages,
+like pkg-info or dash.
+
+Ref: emacs-mirror/emacs@0d383b592c2f
+Fix: https://discourse.doomemacs.org/t/3149</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#96ae3f1</div>
+                                        <div class="message">fix(cli): nativecomp error writing to read-only fs
+
+Occurs when a site-file fails to be natively compiled, and Doom attempts
+to write an error file in the same directory. On some systems, the
+site-lisp directory is in a read-only tree/mount (like nix and guix).
+This should suppress those attempts.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3e85af</div>
+                                        <div class="message">fix(lib): ensure after! body gets expanded
+
+Relying on eval-after-load's compiler-macro magic (after 8b4f722) can
+cause scope issues with nested macros (like file! and dir! running in
+the context of a temp buffer), so best we use with-eval-after-load
+directly.
+
+Ref: 8b4f722fa343</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e0c2ed</div>
+                                        <div class="message">fix(lib): convert file! and dir! to macros
+
+To ensure that they're expanded at a file's top-level, while expanded,
+where they're used. It also fixes a few inlined uses of the file!
+macro (e.g. in `load!`, as reported in #6764), which was prematurely
+committed ahead of this change.
+
+Close: #6764
+Amend: a179b8d262a0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#46e23f3</div>
+                                        <div class="message">fix: memory leak &amp; freezes on native-comp+pgtk builds
+
+b7f84bd introduced a nasty regression that caused an infinite loop and
+runaway memory usage on some pgtk+native-comp builds of Emacs when it
+attempted to perform deferred native compilation of your packages. This
+would make Emacs unusable and, if left alone, could even crash your
+system.
+
+The only Emacs builds I'm certain are affected are derived from
+flatwhatson/emacs (like emacs-pgtk-native-comp on Guix and Arch Linux in
+particular). 28.1 stable and master (on emacs-mirror/emacs@e13509468b7c)
+are unaffected.
+
+It appears that some, earlier pgtk builds stack idle timers differently.
+I'm not entirely sure how, because it doesn't manifest in more recent
+builds of Emacs, and I'm already burnt out on debugging this, but here's
+how Doom encountered it:
+
+Doom has an incremental package loader; it loads packages, piecemeal,
+after Emacs has been idle for 2s, then again every 0.75s until it
+finishes or the user sends input (then it waits another 2s before
+starting again). However, if at any time the iloader detected that
+native-compilation is in progress, it waits 2s before trying
+again (repeat, until native-comp is done). But here's the catch, given
+the following:
+
+  (run-with-idle-timer
+   2 nil (lambda ()
+           (run-with-idle-timer 1 nil (lambda () (message "hi")))))
+
+I had assumed "hi" would be emitted after 3 seconds (once idle), but
+instead it is emitted after 2. Like this, Doom's iloader would elapse
+one idle timer directly into another, ad infinitum, until Emacs was
+forcibly killed.
+
+By switching to run-at-time and employing my own rudimentary idle timer,
+I avoid this issue. Also, the iloader no longer needs to be considerate
+of native-comp, because the latter does its own rate-limiting controlled
+by native-comp-async-jobs-number.
+
+Amend: b7f84bdd0105</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3fe81f4</div>
+                                        <div class="message">fix(cli): wrong-number-of-args error when auto-resolving prompts
+
+E.g. 'doom sync -!' will auto-resolve repo conflicts, but this error was
+preventing that.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e8de0b</div>
+                                        <div class="message">refactor(lib): use num-processors
+
+This C function was introduced in Emacs 28.1.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd26975</div>
+                                        <div class="message">fix(lib): leave point at bob in with-file-contents!
+
+with-file-contents!'s docstring promises that point will end up at the
+beginning of the buffer, but this promise wasn't kept until now.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b121c5e</div>
+                                        <div class="message">refactor(lib): provide doom-libs as subfeatures
+
+This allows us to load them via doom-require. Why not use normal
+features? Because Doom's libraries are designed to be loaded as part of
+Doom, and will openly rely on Doom state if needed; this is a contract I
+want to enforce by ensuring their only entry points are through
+`doom-require` or autoloading.
+
+I will add them to the rest of the libraries later.
+
+Site-node: this also adds Commentary+Code to the comment headings, as I
+want a space to use that space to describe the library, when I get
+around to it.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a179b8d</div>
+                                        <div class="message">feat(lib): add doom-{require,load}
+
+These functions are light wrappers around require and load, such that
+Doom will catch (and decorate) any errors from the target file, and is
+also capable of loading Doom's subfeatures.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">maikol-solis/residualrwa</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9479e23</div>
+                                        <div class="message">nit: reformat all code with the tidyverse style</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a204f62</div>
+                                        <div class="message">fix(core): make combinations with only 2 variables
+
+In the edge case with only two variables, the old code failed because it
+expected a matrix. This fixes the problem making an exception for the
+2 variables case.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28ec8c4</div>
+                                        <div class="message">fix(core): explicit parameters in functions calls</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a65d70</div>
+                                        <div class="message">feat(core): add steps as a parameter
+
+Now the user can define the steps parameter in stepAIC.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">maikol-solis/residualrwa</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#33d2902</div>
+                                        <div class="message">fix(core): set steps to 10 in stepAIC</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba91466</div>
+                                        <div class="message">nit(core): reformat boot loop</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">maikol-solis/residualrwa</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4aca1be</div>
+                                        <div class="message">feat(core): set a 20 steps limit for stepAIC</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5da86aa</div>
+                                        <div class="message">fix(core): set correct name for pbmcapply</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -363,79 +680,6 @@ reformat all the code and include antigen loops inside each strategy.</div>
                                     <div class="commit">
                                         <div class="sha">#35ef158</div>
                                         <div class="message">add plot of efficiency vs stock capacity</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">maikol-solis/notas-distribucion-de-perdidas</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e60282e</div>
-                                        <div class="message">fix(publish): fecha 2022-09-01.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d3c0b6</div>
-                                        <div class="message">fix(src): arregla typo</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">maikol-solis/notas-distribucion-de-perdidas</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#62d29e5</div>
-                                        <div class="message">feat(publish): fecha 2022-09-01.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#73fc6ee</div>
-                                        <div class="message">feat(src): agrega frecuencia y severidad.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99a2859</div>
-                                        <div class="message">feat(config): agrega 03-frecuencia-severidad.Rmd</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#158 How to put the signature above the reply in org-msg?</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by maikol-solis in <span class="repo">jeremy-compostella/org-msg</span></div>
-                                    <div class="comment">
-                                        One workaround is to use the greeting as signature. With this, the signature is always positioned above the replies.
-                                        <code>(setq org-msg-greeting-fmt "\n\n#+begin_signature\n--\nMy signature\n#+end_signature")</code>
-                                        Best.
                                     </div>
                                 </div>
                             </section>
