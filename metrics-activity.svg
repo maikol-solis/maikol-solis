@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1549" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1083" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,115 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">maikol-solis/residualrwa</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b793c3b</div>
+                                        <div class="message">docs(core): format better the default values</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">maikol-solis/residualrwa</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5a4c36e</div>
+                                        <div class="message">tmp</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">refactor-fastbw</span>
+                                        in
+                                        <span class="repo">maikol-solis/residualrwa</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">maikol-solis/residualrwa</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c4f1e29</div>
+                                        <div class="message">docs(core): format better the default values</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb99d61</div>
+                                        <div class="message">nit: remove whitespaces</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#68a33ff</div>
+                                        <div class="message">refactor(core)!: use fastbw to model selection
+
+This commit uses the function rms::fastbw to model selection instead of MASS::stepAIC. The big difference is that the selections are more stable because we start with the full model and perform a backwards elimination.
+
+Given this, the model selection happen successfully every time. The
+execution time is longer but finite (hopefully).
+
+The parameter `family` changes to be only a string ("gaussian" or "binomial") in order to differentiate the cases of rms::ols and rms::lrm.
+
+Another consequence is that the parameters `steps` and `verbose` are unnecessary, and then removed.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">refactor-fastbw</span>
+                                        in
+                                        <span class="repo">maikol-solis/residualrwa</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -358,328 +467,6 @@ Now the user can define the steps parameter in stepAIC.</div>
                                         <div class="message">fix(core): uniquify variable for reordering
 
 Without this, we can get duplicates names into the data.frame.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">maikol-solis/residualrwa</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6945e0f</div>
-                                        <div class="message">fix(config): remove unused globals.R file</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">maikol-solis/notas-distribucion-de-perdidas</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cf4318c</div>
-                                        <div class="message">feat(publish): fecha 2022-09-08</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#55ebaaf</div>
-                                        <div class="message">feat(src): agrega clase modelos agregados.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7632a66</div>
-                                        <div class="message">feat(config): agrega modelos-agregados.Rmd</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 80 commits in
-                                        <span class="repo">maikol-solis/doomemacs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">ess-refactor</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2b07fd1</div>
-                                        <div class="message">bump: :core
-
-Wilfred/helpful@94a07d49a80f -&gt; Wilfred/helpful@6633d82c6e3c
-bbatsov/projectile@dc6e7ff65878 -&gt; bbatsov/projectile@20aa2adccc1e
-domtronn/all-the-icons.el@b18db6be0a29 -&gt; domtronn/all-the-icons.el@4a4d6269b8b8
-justbur/emacs-which-key@1ab1d0cc8884 -&gt; justbur/emacs-which-key@809364403285
-jwiegley/use-package@0ad5d9d5d8a6 -&gt; jwiegley/use-package@e2d173b12008
-radian-software/straight.el@fed215348076 -&gt; radian-software/straight.el@e20a44c4ac5c
-
-Includes a fix for codeberg and sourcehut fetchers in MELPA recipes.
-
-Fix: #6541</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f29b07</div>
-                                        <div class="message">docs: restore getting-started guide &amp; module index
-
-These two files were removed in ccb5fde9bcc on the rewrite-docs branch,
-which was merged in 1f8bf7accba2. I planned to add their rewritten
-versions soon after, but life and distractions got in the way, so I'm
-restoring the old ones until I finish the new ones.
-
-Fix: #6748
-Fix: #6723
-Fix: #6671
-Fix: #6631
-Close: #6726
-Revert: ccb5fde99bcc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42ac62d</div>
-                                        <div class="message">fix: defer projectile's project cleanup
-
-There are two issues here.
-
-1. Projectile uses file-remote-p to check for remote (tramp) paths in
-   its known project list, when it automatically cleans it up on
-   projectile-mode's activation. This causes tramp.el to be loaded,
-   which is expensive.
-2. file-remote-p relies on an entry in file-name-handler-alist
-   (autoloaded by tramp.el) to detect remote paths, which causes tramp
-   to be loaded. However, Doom sets file-name-handler-alist to nil at
-   startup for a noteable boost in startup performance.
-
-   Normally, this is not an issue, as I defer projectile-mode until well
-   after file-name-handler-alist is restored, but it is trivial for a
-   user to inadvertantly load it too early (often as part of another
-   package that depends on it, or by blindly following projectile's
-   install instructions and calling projectile-mode themselves).
-
-In order to address both of these, I defer projectile's cleanup process
-altogether. Another approach I considered was to ensure projectile-mode
-wasn't activated until the right time, regardless of when projectile is
-loaded, but this may trouble savvier Emacs users who need projectile's
-API early during startup, so it needs more consideration.
-
-Fix: #6552
-Ref: bbatsov/projectile#1649</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e65329</div>
-                                        <div class="message">refactor: move gcmh config to doom-start
-
-Configuration for interactive sessions ought to live in doom-start.
-
-Ref: 3ce4b38c3d92</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a639b7</div>
-                                        <div class="message">feat: add auto-mode-alist entries for future doom dotfiles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b68c93d</div>
-                                        <div class="message">refactor: move doom-*-reload-hook to lib/config.el
-
-These hooks are only used by this library, and in interactive sessions,
-neither of which make them a good fit for doom.el.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6cf0e04</div>
-                                        <div class="message">refactor: move doom-first-*-hook to doom-start
-
-doom-start is responsible for configuring an interactive session, so
-variables associated with interactive sessions ought to live there.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c05e615</div>
-                                        <div class="message">refactor: make early-init.el Doom's universal bootstrapper
-
-This centralizes Doom's core startup optimizations and, as a
-side-effect, reduces the runtime of bin/doom commands substantially.
-This also simplifies the user story for loading Doom remotely (for batch
-sessions or doomscripts).</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3853dff</div>
-                                        <div class="message">tweak: disable ahead-of-time native compilation
-
-Rather than impose a 10-45min compilation step on users, I've disabled
-ahead-of-time compilation for deferred compilation. In exchange, it will
-eat up some CPU time the first time each uncompiled package is loaded,
-but as this happens asynchronously (and are then quietly loaded in the
-background), I think this is acceptable.
-
-An --aot switch (or similar) will be added to `doom sync` and `doom
-build` in the future, in case folks prefer the old behavior.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7f84bd</div>
-                                        <div class="message">perf: defer incremental loading for nativecomp users
-
-It'd be detrimental to runtime performance to incrementally load more
-packages as Emacs is natively compiling others, so hold off on it a bit
-longer.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1dac4ac</div>
-                                        <div class="message">refactor: move file-name-handler-alist hack to early-init
-
-In the future, early-init.el (among other parts of Doom) will be
-byte-compiled, plus I'd rather keep these optimizations in one place.
-
-Ref: 1d8c61698bd4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#71469d8</div>
-                                        <div class="message">feat: add nongnu-elpa source for straight</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#338f59c</div>
-                                        <div class="message">feat(lib): backport bol &amp; eol from 29
-
-Ref: emacs-mirror/emacs@f117b5df4dc6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b01166</div>
-                                        <div class="message">feat(lib): backport with-memoization from 29
-
-Ref: emacs-mirror/emacs@3c972723e44c</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#edaa887</div>
-                                        <div class="message">refactor(lib): add + use defbackport! macro
-
-In the future, doom-lib (among other things) will be byte-compiled as
-part of 'doom sync'. To spare runtime the overhead of checking for these
-functions, I've wrapped these in a macro. It also makes their
-definitions a tad simpler.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ebc252</div>
-                                        <div class="message">perf(lib): use symbol plist for fn! lookup table
-
-A good deal faster than alists at this scale.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65c86ea</div>
-                                        <div class="message">feat(lib): backport with-environment-variables from 28.1
-
-And alias letenv! to it. Not sure if I want to deprecate it though,
-given the length of the macro it's linked to...</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#efa3e97</div>
-                                        <div class="message">fix: remove inhibit-redisplay hack
-
-If an error occurs before this is restored, this can leave Emacs in a
-state where it appears frozen and won't redraw. This can be overcome by
-hooking into the debugger, but I'll try that another day.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#995b403</div>
-                                        <div class="message">fix: remove use-package-font-lock-keywords reference
-
-This was removed upstream, and while we haven't bumped use-package for
-this to affect us, I may as well remove it early.
-
-Doom will be dropping use-package from core in 3.0, in any case.
-
-Fix: #6699
-Ref: https://github.com/jwiegley/use-package/commit/8a3d29e433d97cfa5612e7bc686ce7c0d24b8f47</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98b8f01</div>
-                                        <div class="message">fix(lib): vestigial call to missing cat function
-
-This was brought over from `doom-info` in f33d8e7, but one of the
-lexical function calls wasn't refactored out.
-
-Ref: https://github.com/doomemacs/doomemacs/blob/a5c80fcb4b487b929681f1cb4fd64e5b5a2ae473/lisp/lib/debug.el#L216-L219
-Fix: #6698
-Amend: c5e3f4d632c1
-Co-authored-by: ivanbrennan &lt;ivanbrennan@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">maikol-solis/code_paper_massive_testing_strategies</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1eb0117</div>
-                                        <div class="message">fix call for combined plot</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">maikol-solis/code_paper_massive_testing_strategies</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1776e52</div>
-                                        <div class="message">update final plots</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8973b7</div>
-                                        <div class="message">reformat main function</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2a57e9</div>
-                                        <div class="message">comment old plot functions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#47dac9b</div>
-                                        <div class="message">reformat plot functions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98d8930</div>
-                                        <div class="message">refactor main code
-
-reformat all the code and include antigen loops inside each strategy.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35ef158</div>
-                                        <div class="message">add plot of efficiency vs stock capacity</div>
                                     </div>
                                 </div>
                             </section>
