@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1066" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1416" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,622 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 18 commits in
+                                        <span class="repo">maikol-solis/doomemacs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ess-refactor</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fd54b24</div>
+                                        <div class="message">bump: :lang ess
+
+emacs-ess/ess@39eba283000a -&gt; emacs-ess/ess@c041ac58a648
+polymode/polymode@2094c92403fe -&gt; polymode/polymode@15b6c1e94a45</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b65410</div>
+                                        <div class="message">feat(ess): add ess-r-insert-obj package
+
+Utilities to help inserting variable (column) names or values in ESS.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42a8c14</div>
+                                        <div class="message">feat(ess): add ess-smart-equals packages
+
+This package auto-inserts assignation operators (`&lt;-`, `&lt;&lt;-` or `=`)
+after pressing `=`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c18929</div>
+                                        <div class="message">feat(ess): add lsp-mode client for TRAMP projects</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40dd97a</div>
+                                        <div class="message">feat(ess): add popup rules for ESS buffers
+
+This a first try. We can tweak them if there are better choices for each
+rule.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b3d36d</div>
+                                        <div class="message">nit(ess): reformat keybinds</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ff5376</div>
+                                        <div class="message">feat(ess): add proper indentation with roxygen</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22aed22</div>
+                                        <div class="message">feat(ess): add company-R-library backend</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#559229c</div>
+                                        <div class="message">fix(layout): Bépo rotation happening before magit
+
+Fixes an issue where binding rotations in Bépo were happening too soon,
+resulting in some remaps not being visible to the user when interacting
+with magit, :editor evil +everywhere, and :input layout +bepo
+
+Ref: https://discourse.doomemacs.org/t/layout-bepo-does-not-properly-remap-k-in-magit/3063</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d156e58</div>
+                                        <div class="message">fix(org): respect org-insert-heading-hook in +org--insert-item
+
+Doom replaces `org-insert-heading`, but its replacement does not respect
+`org-insert-heading-hook`. This commit fixes that, enabling folks to
+customize their insert-heading behavior, e.g.  adding a time stamp:
+
+  (defun my/org-set-creation-date-heading-property ()
+    (save-excursion
+      (org-back-to-heading)
+      (org-set-property "CREATED" (format-time-string "[%Y-%m-%d %T]"))))
+  (add-hook 'org-insert-heading-hook #'my/org-set-creation-date-heading-property)
+
+Ref: https://git.savannah.gnu.org/cgit/emacs/org-mode.git/tree/lisp/org.el#n6187
+Ref: https://git.savannah.gnu.org/cgit/emacs/org-mode.git/tree/lisp/org.el#n1615</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1ef4cc</div>
+                                        <div class="message">fix(emacs-lisp): datatype error in fileless elisp buffers
+
+Due to +emacs-lisp-non-package-mode assuming it would always execute in
+a file-visiting buffer.
+
+Fix: #6786</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3ffb9e</div>
+                                        <div class="message">bump: :ui doom
+
+doomemacs/themes@83fd9545c282 -&gt; doomemacs/themes@535800fd6ca7
+
+Improves Emacs 29 compatibility (see ref).
+
+Ref: emacs-mirror/emacs@d0a66f3e0e66</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67a42e8</div>
+                                        <div class="message">bump: :ui modeline
+
+emacsorphanage/evil-anzu@d3f6ed4773b4 -&gt; emacsorphanage/evil-anzu@d1e98ee69764
+seagle0128/doom-modeline@ce9899f00af4 -&gt; seagle0128/doom-modeline@bed80b82d7bf
+
+Also improves Emacs 29 compatibility (see ref).
+
+Ref: emacs-mirror/emacs@d0a66f3e0e66</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#405f6cd</div>
+                                        <div class="message">fix: load-file-suffixes not being restored
+
+This setting (along with load-file-rep-suffixes) is simplified at
+startup to optimize file IO at startup, but it was supposed to be undone
+at the end of doom-start (in doom-before-init-hook). Unfortunately, the
+restoration hook was not reaching their top-level bindings, causing
+dynamic modules (like vterm-modules.so) to fail to load.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f86698</div>
+                                        <div class="message">refactor(lib): doom-load</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b804a2f</div>
+                                        <div class="message">refactor(lib): convert cli/autoloads.el to lib</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ea4b21</div>
+                                        <div class="message">fix(cli): remove vestigial doom-initialize-modules calls
+
+Fix: #6784</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab9896c</div>
+                                        <div class="message">refactor(org): move doom-docs link defs to :lang org
+
+Where they will be further generalized, later.
+
+This also prevents an issue where org was loaded while the profile init
+files are generated, which caused a warning about org-loaddefs which
+introduces a noticable delay.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">maikol-solis/doomemacs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ess-refactor</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#84ecc50</div>
+                                        <div class="message">bump: :lang ess
+
+emacs-ess/ess@39eba283000a -&gt; emacs-ess/ess@c041ac58a648
+polymode/polymode@2094c92403fe -&gt; polymode/polymode@15b6c1e94a45</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64a4f4f</div>
+                                        <div class="message">feat(ess): add ess-r-insert-obj package
+
+Utilities to help inserting variable (column) names or values in ESS.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f705716</div>
+                                        <div class="message">feat(ess): add ess-smart-equals packages
+
+This package auto-inserts assignation operators (`&lt;-`, `&lt;&lt;-` or `=`)
+after pressing `=`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fcd8dcf</div>
+                                        <div class="message">feat(ess): add lsp-mode client for TRAMP projects</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e7d1213</div>
+                                        <div class="message">feat(ess): add popup rules for ESS buffers
+
+This a first try. We can tweak them if there are better choices for each
+rule.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">maikol-solis/doomemacs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ess-refactor</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0add1aa</div>
+                                        <div class="message">nit(ess): reformat keybinds</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d0c4aec</div>
+                                        <div class="message">feat(ess): add proper indentation with roxygen</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">maikol-solis/doomemacs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ess-refactor</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f2edcf0</div>
+                                        <div class="message">feat(ess): add company-R-library backend</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#6455 refactor(ess): update ess module </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">doomemacs/doomemacs</span></div>
+                                    <div>0 files changed <span class="code">++0 --0</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 77 commits in
+                                        <span class="repo">maikol-solis/doomemacs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ess-refactor</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a67b212</div>
+                                        <div class="message">fix: make doom-module-from-path's PATH arg required</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5bb50e</div>
+                                        <div class="message">docs: improve emacs version checks and their explanations
+
+- Add a 27.x check, recommending that users upgrade to 28.1.
+- Removed the check for &lt;27. Loading doom.el with sub-27 will already
+  fail with a detailed error about supported versions.
+- Now detects development (.50) and pre-release (.9x) builds of Emacs,
+  and warns the user of their dangers.
+- Revises the warning for 29+ or .50|.9x users.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07d22ad</div>
+                                        <div class="message">nit: revise comments, reformat config sections</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b480ed5</div>
+                                        <div class="message">refactor(lib): suppress map! at compile/batch time
+
+It's not useful in those scenarios, and is more likely to throw up
+unrecoverably keybind conflict errors, when load order is determined by
+an over-eager byte-compiler, rather than Doom's standard startup
+process.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#701f51c</div>
+                                        <div class="message">refactor(lib): use uninterned symbols for transient/chained hooks
+
+The debugger appears to display uninterned symbols properly, and since
+these symbols should never be touched/referenced by users, there's no
+reason to pollute the obarray with these transient symbols.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf1c6e9</div>
+                                        <div class="message">dev(ci): fix commit linter config for module scopes
+
+This file used to live in /.github/ci.el. It was later moved to
+/.doomrc (in 9b8ed39), but I forgot to push this change to update the
+relative path to Doom's modules. This caused the linter to complain that
+all module scopes were invalid.
+
+Also, I removed the $DOOMDIR/modules/ check, as modules in the user's
+config shouldn't be factored into the list of valid scopes.
+
+Amend: 9b8ed397e8e7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26914d0</div>
+                                        <div class="message">refactor(lib): use ansi-color-apply
+
+Rather than reimplement its face lookup (and have two versions of
+doom-print-ansi-alist -- one for 27.x and one for 28+), let's just rely
+on ansi-color.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#94ea4aa</div>
+                                        <div class="message">docs: add examples.org
+
+This adds the basic framework of docs/examples.org, including the former
+contents of demo.org in :lang emacs-lisp. elisp-demo has also been
+reconfigured to search it instead.
+
+Keep in mind that examples.org references a few things in as-of-yet
+published documentation. This will be rectified soon.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e71daf5</div>
+                                        <div class="message">tweak(emacs-lisp): elisp indentation for data/plists
+
+This was adapted from
+https://www.reddit.com/r/emacs/comments/d7x7x8/finally_fixing_indentation_of_quoted_lists/.
+It fixes the indentation of quoted data (and plist keywords) so they're
+indented like data, rather than function arguments, like so:
+
+  BEFORE:
+    `(foo bar baz
+          doom emacs)
+    '(:foo 1
+           :bar 2
+           :baz 3)
+    '(:foo 1
+           2
+           3
+           :bar 4)
+    (:foo 1
+          :bar 2)
+    (:foo 1
+          ;; test comment
+          :bar 2)
+    (:foo 1
+          2
+          :bar 3)
+
+  AFTER:
+    `(foo bar baz
+      doom emacs)
+    '(:foo 1
+      :bar 2
+      :baz 3)
+    '(:foo 1
+      2
+      3
+      :bar 4)
+    ;; only align unquoted keywords if keywords start each line:
+    (:foo 1
+     :bar 2)
+    (:foo 1
+     ;; test comment
+     :bar 2)
+    (:foo 1
+          2
+          :bar 3)
+
+Also, I added a way to declare that plists in an macro's arguments
+should be indented like data:
+
+  (put 'map! 'indent-plists-as-data t)
+
+  BEFORE:
+    (map! :localleader
+          :map emacs-lisp-mode-map
+          (:prefix ("d" . "debug")
+                   "f" #'+emacs-lisp/edebug-instrument-defun-on
+                   "F" #'+emacs-lisp/edebug-instrument-defun-off))
+
+  AFTER:
+    (map! :localleader
+          :map emacs-lisp-mode-map
+          (:prefix ("d" . "debug")
+           "f" #'+emacs-lisp/edebug-instrument-defun-on
+           "F" #'+emacs-lisp/edebug-instrument-defun-off))
+
+There was a third improvement I was hoping to include, namely,
+proper indentation of interpolated forms:
+
+  BEFORE:
+    `(foo
+      bar
+      ,(if t
+           'baz
+         'boo))
+
+    `(foo
+      bar
+      (if t
+          baz
+        boo))
+
+  AFTER:
+  `(foo
+    bar
+    ,(if t
+          'baz
+        'boo))
+
+  `(foo
+    bar
+    (if t
+     baz
+     boo))
+
+But this was removed because it breaks indentation for quoted macro
+forms (or dynamic elisp programming):
+
+  BEFORE: (good)
+    `(with-temp-buffer
+       (if (always)
+           (message
+            "Hello %s"
+            user-login-name)
+         (message
+          "Goodbye %s"
+          user-login-name)))
+
+  AFTER: (bad)
+    `(with-temp-buffer
+      (if (always)
+       (message
+        "Hello %s"
+        user-login-name)
+       (message
+        "Goodbye %s"
+        user-login-name)))
+
+Ref: https://www.reddit.com/r/emacs/comments/d7x7x8/finally_fixing_indentation_of_quoted_lists/'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3fe1641</div>
+                                        <div class="message">feat(lib): add doom-compile-function
+
+To be used in some autoloaded libraries, in case they haven't been
+byte-compiled and contain especially expensive functions.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a18ea68</div>
+                                        <div class="message">refactor(python): autoload syntax highlighter fix for 28.1
+
+A summary of the issue:
+- emacs-mirror/emacs@c44908c0593a broke syntax highlighting for
+  python-mode.
+- emacs-mirror/emacs@a8acb9516e75 fixes the issue shortly after, but the
+  fix did not make it into the 28.1 release (but made it into 28.2).
+- This fix was deployed in #6414 (773122f1ec4d).
+- This commit ensures the fix is only effective for 28.1 users, and
+  documents it for posterity.
+
+Ref: #6414
+Ref: emacs-mirror/emacs@c44908c0593a
+Ref: emacs-mirror/emacs@a8acb9516e75
+Amend: 773122f1ec4d
+Co-authored-by: dani84bs &lt;dani84bs@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f49953a</div>
+                                        <div class="message">feat(lib): add versionp! macro
+
+A convenience macro for Emacs' version API, for performing compound
+version checks in less code.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dde728d</div>
+                                        <div class="message">fix(lib): void-function insert-into-buffer on Emacs 27
+
+insert-into-buffer was introduced in 28.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a83079</div>
+                                        <div class="message">refactor: move core optimizations to doom-start
+
+These only benefit interactive sessions, and doom-start's responsibility
+is to configure interactive sessions; it doesn't make sense to keep
+these in core.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7bd27d</div>
+                                        <div class="message">refactor(cli,lib): print levels &amp; output redirection
+
+This refactors how Doom captures and redirects its output (to stdout and
+stderr) into a more general with-output-to! macro, and:
+
+- Simplifies the "print level" system. The various doom-print-*-level
+  variables have been removed.
+- Adds a new print level: notice, which will be the default level for
+  all standard output (from print!, doom-print, prin[ct1], etc).
+- Adds a with-output-to! macro for capturing and redirecting
+  output to multiple streams (without suppressing it from stdout). It
+  can also be nested.
+- Changes the following about doom-print:
+  - Default :format changed to nil (was t)
+  - Default :level changed to t (was `doom-print-level`)
+  - No longer no-ops if OUTPUT is only whitespace</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6cac7b0</div>
+                                        <div class="message">refactor(lib): tidy doom-log output
+
+This commit reduces the debug log noise, makes it easier to
+read/parse/search, and soft-introduces a convention for doom-log
+messages, where they are prefixed with a unique identifier loosely named
+after it's running context or calling function.
+
+I haven't enforced it everywhere doom-log is used yet, but this is a
+start.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c43c76</div>
+                                        <div class="message">refactor!: replace doom-incremental-load-immediately var
+
+BREAKING CHANGE: This removes the doom-incremental-load-immediately
+variable. Instead, set doom-incremental-first-idle-timer to 0 to force
+all iloaded packages be eagerly loaded at startup. This is already the
+default behavior for daemon sessions.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bcf7a8a</div>
+                                        <div class="message">refactor!(cli): rename cli definers for consistency
+
+BREAKING CHANGE: If anyone is using Doom's CLI framework and are
+defining their own CLIs with any of the following macros, they'll need
+to be updated to their new names:
+
+- defautoload! -&gt; defcli-autoload!
+- defgroup! -&gt; defcli-group!
+- defstub! -&gt; defcli-stub!
+- defalias! -&gt; defcli-alias!
+- defobsolete! -&gt; defcli-obsolete!
+
+These were renamed to make their relationship with CLIs more obvious;
+they were too ambiguous otherwise.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ce2989</div>
+                                        <div class="message">refactor(lib): remove redundant full? arg in doom-glob
+
+file-expand-wildcards already does this check, internally.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#afa154d</div>
+                                        <div class="message">refactor!(emacs-lisp): flycheck config in non-packages
+
+BREAKING CHANGE: This performs the following backwards-incompatible
+changes:
+
+- Replaces `+emacs-lisp-reduce-flycheck-errors-in-emacs-config-h` with a
+  `+emacs-lisp-non-package-mode` minor-mode.
+- Removed the `+emacs-lisp-disable-flycheck-in-dirs` variable, as this
+  mechanism no longer checks a directory list to detect a "non-package".
+
+If you've referenced either of these symbols, you'll need to
+update/remove them from your config. No extra config is needed
+otherwise.
+
+Why: Doom has always tried to reduce the verbosity of Flycheck when
+viewing elisp config files or scripts (i.e. non-packages). These are so
+stateful that the byte-compiler, package-lint, and checkdoc inundate
+users with false positives that are more overwhelming than helpful.
+
+The heuristic for this has always been a simple "is this file in
+$DOOMDIR or $EMACSDIR", but this wasn't robust enough, especially in
+cases where symlinking was involved, so I've employed a new, more
+general heuristic for detecting non-package files:
+
+- The file isn't a theme in `custom-theme-load-path`,
+- The file doesn't have a (provide ...) or (provide-theme ...)
+  statement whose first argument matches the file name,
+- The file lives in a project with a .doommodule file (doom modules
+  never have convention package files in them),
+- Or the file is a dotfile (like .dir-locals.el or .doomrc).
+
+I've also tweaked byte-compile-warnings to yield a little more output,
+but not by much. Whether this is too permissive or not will require
+further testing to determine.
+
+What's more, I've updated this to reflect recent changes to Doom's
+startup process (in c05e615).
+
+Ref: c05e61536ed9</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -103,364 +719,6 @@
                                     <div class="commit">
                                         <div class="sha">#b793c3b</div>
                                         <div class="message">docs(core): format better the default values</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">maikol-solis/residualrwa</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5a4c36e</div>
-                                        <div class="message">tmp</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">refactor-fastbw</span>
-                                        in
-                                        <span class="repo">maikol-solis/residualrwa</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">maikol-solis/residualrwa</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c4f1e29</div>
-                                        <div class="message">docs(core): format better the default values</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb99d61</div>
-                                        <div class="message">nit: remove whitespaces</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#68a33ff</div>
-                                        <div class="message">refactor(core)!: use fastbw to model selection
-
-This commit uses the function rms::fastbw to model selection instead of MASS::stepAIC. The big difference is that the selections are more stable because we start with the full model and perform a backwards elimination.
-
-Given this, the model selection happen successfully every time. The
-execution time is longer but finite (hopefully).
-
-The parameter `family` changes to be only a string ("gaussian" or "binomial") in order to differentiate the cases of rms::ols and rms::lrm.
-
-Another consequence is that the parameters `steps` and `verbose` are unnecessary, and then removed.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">refactor-fastbw</span>
-                                        in
-                                        <span class="repo">maikol-solis/residualrwa</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 44 commits in
-                                        <span class="repo">maikol-solis/doomemacs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">ess-refactor</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#05d06cc</div>
-                                        <div class="message">tweak(lib): suppress GC logging in debug mode
-
-It happens so often it can overwhelm the echo area. It's still logged
-to *Messages* however.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d290152</div>
-                                        <div class="message">refactor(lib): replace doom-debugger with advice
-
-Writing a debugger for Elisp is too much hassle. `debug` itself isn't
-very customizable without a *lot* of boilerplate, so instead of writing
-my own, it's more effective to advise debug instead. Certainly, I don't
-do anything with it yet, but I will soon.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b66ccae</div>
-                                        <div class="message">fix(agda): tree-sitter compatibility with agda2-mode
-
-Tree-sitter-lang recognized agda-mode, but not agda2-mode.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49f4ec3</div>
-                                        <div class="message">feat(tree-sitter): add set-tree-sitter-lang! autodef</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#151300e</div>
-                                        <div class="message">feat(cli): deny XDG, Wayland, Sway, + socket envvars
-
-Additional envvars that would not be helpful to persist.
-
-Ref: https://discourse.doomemacs.org/t/3088</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c59fe85</div>
-                                        <div class="message">dev: handle blank shell.nix inputs properly
-
-If doomdir, emacsdir, and/or doomlocaldir were blank, / would be treated
-as their value, which will fail in some spectacular (and some quiet)
-ways.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b5b0d5d</div>
-                                        <div class="message">dev: update shell.nix
-
-To include a wider selection of Emacs versions.
-
-Also makes 28.1 the default version.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c747d21</div>
-                                        <div class="message">refactor(cli): throw error if Doom fails to load</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3505e66</div>
-                                        <div class="message">fix: failure to load doom libs on 27.x
-
-Emacs 27.x does not collapse consecutive slashes in a file path when
-trying to load them, and instead discards everything before it and
-treats the rest as an absolute path, e.g. "~/some//path/foo/" -&gt;
-"/path/foo". This is not the case in 28.1, but Doom's backport of
-file-name-concat did not take this into account, so it's been modified
-to trim trailing slashes.
-
-Fix: #6766
-Amend: 433c9e344d46</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb80d46</div>
-                                        <div class="message">fix(lib): void-function macroexp-file-name error
-
-This function was introduced in Emacs 28.1, so 7e0c2ed was a breaking
-change for 27.x users.
-
-Fix: #6766
-Amend: 7e0c2ed8a333</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e931ec</div>
-                                        <div class="message">fix: file-missing errors while trying to build packages
-
-This is caused by a bug in recent builds of Emacs 29, where
-`loaddefs-generate` will activate emacs-lisp-mode to read a package's
-autoloads, but does so without suppressing its mode hooks. Other
-packages may add functions to this hook from their autoloads (like
-overseer.el does). Calling these functions will initiate a chain
-reaction where other packages will be loaded (plus their dependencies),
-but aren't guaranteed to be available so early in the bootstrap process.
-The result are file-missing errors about seemingly unrelated packages,
-like pkg-info or dash.
-
-Ref: emacs-mirror/emacs@0d383b592c2f
-Fix: https://discourse.doomemacs.org/t/3149</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#96ae3f1</div>
-                                        <div class="message">fix(cli): nativecomp error writing to read-only fs
-
-Occurs when a site-file fails to be natively compiled, and Doom attempts
-to write an error file in the same directory. On some systems, the
-site-lisp directory is in a read-only tree/mount (like nix and guix).
-This should suppress those attempts.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f3e85af</div>
-                                        <div class="message">fix(lib): ensure after! body gets expanded
-
-Relying on eval-after-load's compiler-macro magic (after 8b4f722) can
-cause scope issues with nested macros (like file! and dir! running in
-the context of a temp buffer), so best we use with-eval-after-load
-directly.
-
-Ref: 8b4f722fa343</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e0c2ed</div>
-                                        <div class="message">fix(lib): convert file! and dir! to macros
-
-To ensure that they're expanded at a file's top-level, while expanded,
-where they're used. It also fixes a few inlined uses of the file!
-macro (e.g. in `load!`, as reported in #6764), which was prematurely
-committed ahead of this change.
-
-Close: #6764
-Amend: a179b8d262a0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#46e23f3</div>
-                                        <div class="message">fix: memory leak &amp; freezes on native-comp+pgtk builds
-
-b7f84bd introduced a nasty regression that caused an infinite loop and
-runaway memory usage on some pgtk+native-comp builds of Emacs when it
-attempted to perform deferred native compilation of your packages. This
-would make Emacs unusable and, if left alone, could even crash your
-system.
-
-The only Emacs builds I'm certain are affected are derived from
-flatwhatson/emacs (like emacs-pgtk-native-comp on Guix and Arch Linux in
-particular). 28.1 stable and master (on emacs-mirror/emacs@e13509468b7c)
-are unaffected.
-
-It appears that some, earlier pgtk builds stack idle timers differently.
-I'm not entirely sure how, because it doesn't manifest in more recent
-builds of Emacs, and I'm already burnt out on debugging this, but here's
-how Doom encountered it:
-
-Doom has an incremental package loader; it loads packages, piecemeal,
-after Emacs has been idle for 2s, then again every 0.75s until it
-finishes or the user sends input (then it waits another 2s before
-starting again). However, if at any time the iloader detected that
-native-compilation is in progress, it waits 2s before trying
-again (repeat, until native-comp is done). But here's the catch, given
-the following:
-
-  (run-with-idle-timer
-   2 nil (lambda ()
-           (run-with-idle-timer 1 nil (lambda () (message "hi")))))
-
-I had assumed "hi" would be emitted after 3 seconds (once idle), but
-instead it is emitted after 2. Like this, Doom's iloader would elapse
-one idle timer directly into another, ad infinitum, until Emacs was
-forcibly killed.
-
-By switching to run-at-time and employing my own rudimentary idle timer,
-I avoid this issue. Also, the iloader no longer needs to be considerate
-of native-comp, because the latter does its own rate-limiting controlled
-by native-comp-async-jobs-number.
-
-Amend: b7f84bdd0105</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3fe81f4</div>
-                                        <div class="message">fix(cli): wrong-number-of-args error when auto-resolving prompts
-
-E.g. 'doom sync -!' will auto-resolve repo conflicts, but this error was
-preventing that.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e8de0b</div>
-                                        <div class="message">refactor(lib): use num-processors
-
-This C function was introduced in Emacs 28.1.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd26975</div>
-                                        <div class="message">fix(lib): leave point at bob in with-file-contents!
-
-with-file-contents!'s docstring promises that point will end up at the
-beginning of the buffer, but this promise wasn't kept until now.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b121c5e</div>
-                                        <div class="message">refactor(lib): provide doom-libs as subfeatures
-
-This allows us to load them via doom-require. Why not use normal
-features? Because Doom's libraries are designed to be loaded as part of
-Doom, and will openly rely on Doom state if needed; this is a contract I
-want to enforce by ensuring their only entry points are through
-`doom-require` or autoloading.
-
-I will add them to the rest of the libraries later.
-
-Site-node: this also adds Commentary+Code to the comment headings, as I
-want a space to use that space to describe the library, when I get
-around to it.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a179b8d</div>
-                                        <div class="message">feat(lib): add doom-{require,load}
-
-These functions are light wrappers around require and load, such that
-Doom will catch (and decorate) any errors from the target file, and is
-also capable of loading Doom's subfeatures.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">maikol-solis/residualrwa</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9479e23</div>
-                                        <div class="message">nit: reformat all code with the tidyverse style</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a204f62</div>
-                                        <div class="message">fix(core): make combinations with only 2 variables
-
-In the edge case with only two variables, the old code failed because it
-expected a matrix. This fixes the problem making an exception for the
-2 variables case.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28ec8c4</div>
-                                        <div class="message">fix(core): explicit parameters in functions calls</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a65d70</div>
-                                        <div class="message">feat(core): add steps as a parameter
-
-Now the user can define the steps parameter in stepAIC.</div>
                                     </div>
                                 </div>
                             </section>
