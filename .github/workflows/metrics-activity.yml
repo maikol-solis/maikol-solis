@@ -22,4 +22,4 @@ jobs:
           config_timezone: America/Costa_Rica
           plugin_activity: yes
           plugin_activity_limit: 10
-          plugin_activity_skipped: maikol-solis
+          plugin_activity_skipped: maikol-solis,doomemacs
