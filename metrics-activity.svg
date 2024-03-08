@@ -23,6 +23,26 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#1028 Slowdown in lsp-mode because the sever reports errors on TinyTex LaTeX distribution instead of only in the current project</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by maikol-solis in <span class="repo">latex-lsp/texlab</span></div>
+                                    <div class="comment">
+                                        <i>I think the better solution is to never send diagnostics for files that are part of the TeX distro.</i>
+                                        Yes, this will solve the issue completely.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#1005 High CPU use and multiple request timeouts while editing in a directory with many tex files</span>
                                     </div>
                                 </div>
@@ -270,23 +290,6 @@ Also rename alphashape names in plot functions.</div>
 Just to notice that in the main page https://arxiv.org/ if you go down to the Statistics section 
 
 The "detailed description" redirects to the mentioned 404 page before.</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#809 Description for the `stat` classification is missing</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by maikol-solis in <span class="repo">arXiv/arxiv-docs</span></div>
-                                    <div class="comment">And yes, I clicked on the "detailed description" link in the statistical section.</div>
                                 </div>
                             </section>
                         </div>
