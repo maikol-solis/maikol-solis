@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="773" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="737" class="">
     <defs>
         <style/>
     </defs>
@@ -29,14 +29,38 @@
                                 <div class="details">
                                     <div>opened by maikol-solis in <span class="repo">protesilaos/denote</span></div>
                                     <div class="comment">
-                                        I tried to create new functions based on the already existing for org, but it doesn't work for me. 
-Maybe I just did a silly thing.
+                                        After tweaking the regexp a bit, this works for me. 
+Please check if it's useful to you.
                                         <code class="language-multiline language-elisp" xml:space="preserve"><span class="token punctuation">(</span><span class="token defun"><span class="token keyword">defun</span> <span class="token function">denote-markdown-extras--get-link-type-regexp</span> <span class="token punctuation">(</span><span class="token arguments"><span class="token argument variable">type</span></span><span class="token punctuation">)</span></span>
-  <span class="token string">"Return regexp for Markdown link <span class="token argument">TYPE</span>.<span class="token trimmed">(35 more lines were trimmed)</span></span>
+    <span class="token string">"Return regexp for Markdown link <span class="token argument">TYPE</span>.<span class="token trimmed">(34 more lines were trimmed)</span></span>
 </code>
                                     </div>
                                 </div>
                             </section>
+                            <div class="row fill-width">
+                                <section class="activity">
+                                    <div class="field">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        </svg>
+                                        <div class="content">
+                                            Commented on
+                                            <span class="issue">#327 Is there an equivalent `denote-org-extras-convert-links-to-file-type ` for markdown files? </span>
+                                        </div>
+                                    </div>
+                                    <div class="details">
+                                        <div>opened by maikol-solis in <span class="repo">protesilaos/denote</span></div>
+                                        <div class="comment">
+                                            Hi!
+Thanks for the reply.
+ I'm following the convention for Quarto files (https://quarto.org/docs/authoring/markdown-basics.html#links-images), and I think it covers the 99% of the cases.
+A regular link with signature, title and name of the file should be like
+                                            <code>[SIGNATURE TITLE](NAME-OF-FILE)</code>
+                                            Best.
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
                             <div class="row fill-width">
                                 <section class="activity">
                                     <div class="field">
@@ -46,7 +70,7 @@ Maybe I just did a silly thing.
                                         </svg>
                                         <div class="content">
                                             Opened
-                                            <span class="issue">#327 Is there an equivalent `denote-org-extras-convert-links-to-denote-type` for markdown files? </span>
+                                            <span class="issue">#328 Sluggify accented titles </span>
                                         </div>
                                     </div>
                                     <div class="details">
@@ -58,191 +82,151 @@ Maybe I just did a silly thing.
                                 <section class="activity">
                                     <div class="field">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                            <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                         </svg>
                                         <div class="content">
-                                            Pushed 1 commit in
-                                            <span class="repo">maikol-solis/spatgeom</span>
+                                            Commented on
+                                            <span class="issue">#327 Is there an equivalent `denote-org-extras-convert-links-to-file-type ` for markdown files? </span>
                                         </div>
                                     </div>
                                     <div class="details">
-                                        <div>on branch <span class="code">main</span></div>
-                                        <div class="commit">
-                                            <div class="sha">#e29210d</div>
-                                            <div class="message">fix: union points before estimate convex-hull</div>
+                                        <div>opened by maikol-solis in <span class="repo">protesilaos/denote</span></div>
+                                        <div class="comment">
+                                            I tried to create new functions based on the already existing for org, but it doesn't work for me. 
+Maybe I just did a silly thing.
+                                            <code class="language-multiline language-elisp" xml:space="preserve"><span class="token punctuation">(</span><span class="token defun"><span class="token keyword">defun</span> <span class="token function">denote-markdown-extras--get-link-type-regexp</span> <span class="token punctuation">(</span><span class="token arguments"><span class="token argument variable">type</span></span><span class="token punctuation">)</span></span>
+  <span class="token string">"Return regexp for Markdown link <span class="token argument">TYPE</span>.<span class="token trimmed">(35 more lines were trimmed)</span></span>
+</code>
                                         </div>
                                     </div>
                                 </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 1 commit in
-                                            <span class="repo">maikol-solis/spatgeom</span>
+                                <div class="row fill-width">
+                                    <section class="activity">
+                                        <div class="field">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                                <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                            </svg>
+                                            <div class="content">
+                                                Opened
+                                                <span class="issue">#327 Is there an equivalent `denote-org-extras-convert-links-to-denote-type` for markdown files? </span>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">main</span></div>
-                                        <div class="commit">
-                                            <div class="sha">#2ef5618</div>
-                                            <div class="message">fix: missing arguments on estimate_envelope</div>
+                                        <div class="details">
+                                            <div>opened  in <span class="repo">protesilaos/denote</span></div>
                                         </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 1 commit in
-                                            <span class="repo">maikol-solis/spatgeom</span>
+                                    </section>
+                                </div>
+                                <div class="row fill-width">
+                                    <section class="activity">
+                                        <div class="field">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                            </svg>
+                                            <div class="content">
+                                                Pushed 1 commit in
+                                                <span class="repo">maikol-solis/spatgeom</span>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">main</span></div>
-                                        <div class="commit">
-                                            <div class="sha">#f2e008b</div>
-                                            <div class="message">fix: bad argument name</div>
+                                        <div class="details">
+                                            <div>on branch <span class="code">main</span></div>
+                                            <div class="commit">
+                                                <div class="sha">#e29210d</div>
+                                                <div class="message">fix: union points before estimate convex-hull</div>
+                                            </div>
                                         </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 1 commit in
-                                            <span class="repo">maikol-solis/spatgeom</span>
+                                    </section>
+                                </div>
+                                <div class="row fill-width">
+                                    <section class="activity">
+                                        <div class="field">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                            </svg>
+                                            <div class="content">
+                                                Pushed 1 commit in
+                                                <span class="repo">maikol-solis/spatgeom</span>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">main</span></div>
-                                        <div class="commit">
-                                            <div class="sha">#0ae7c8f</div>
-                                            <div class="message">fix: minor errors</div>
+                                        <div class="details">
+                                            <div>on branch <span class="code">main</span></div>
+                                            <div class="commit">
+                                                <div class="sha">#2ef5618</div>
+                                                <div class="message">fix: missing arguments on estimate_envelope</div>
+                                            </div>
                                         </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 2 commits in
-                                            <span class="repo">maikol-solis/spatgeom</span>
+                                    </section>
+                                </div>
+                                <div class="row fill-width">
+                                    <section class="activity">
+                                        <div class="field">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                            </svg>
+                                            <div class="content">
+                                                Pushed 1 commit in
+                                                <span class="repo">maikol-solis/spatgeom</span>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">main</span></div>
-                                        <div class="commit">
-                                            <div class="sha">#6fd38d0</div>
-                                            <div class="message">fix: change triangles_list -&gt; spatgeom_obj</div>
+                                        <div class="details">
+                                            <div>on branch <span class="code">main</span></div>
+                                            <div class="commit">
+                                                <div class="sha">#f2e008b</div>
+                                                <div class="message">fix: bad argument name</div>
+                                            </div>
                                         </div>
-                                        <div class="commit">
-                                            <div class="sha">#c2c550d</div>
-                                            <div class="message">doc: clarify estimate_curves structure</div>
+                                    </section>
+                                </div>
+                                <div class="row fill-width">
+                                    <section class="activity">
+                                        <div class="field">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                            </svg>
+                                            <div class="content">
+                                                Pushed 1 commit in
+                                                <span class="repo">maikol-solis/spatgeom</span>
+                                            </div>
                                         </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 5 commits in
-                                            <span class="repo">maikol-solis/quarto-emacs</span>
+                                        <div class="details">
+                                            <div>on branch <span class="code">main</span></div>
+                                            <div class="commit">
+                                                <div class="sha">#0ae7c8f</div>
+                                                <div class="message">fix: minor errors</div>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">main</span></div>
-                                        <div class="commit">
-                                            <div class="sha">#a7b974f</div>
-                                            <div class="message">Update README.md</div>
+                                    </section>
+                                </div>
+                                <div class="row fill-width">
+                                    <section class="activity">
+                                        <div class="field">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                            </svg>
+                                            <div class="content">
+                                                Pushed 2 commits in
+                                                <span class="repo">maikol-solis/spatgeom</span>
+                                            </div>
                                         </div>
-                                        <div class="commit">
-                                            <div class="sha">#b7dcba7</div>
-                                            <div class="message">Merge pull request #14 from maikol-solis/patch-1
-
-fix: set the correct name for menu-bar popup</div>
+                                        <div class="details">
+                                            <div>on branch <span class="code">main</span></div>
+                                            <div class="commit">
+                                                <div class="sha">#6fd38d0</div>
+                                                <div class="message">fix: change triangles_list -&gt; spatgeom_obj</div>
+                                            </div>
+                                            <div class="commit">
+                                                <div class="sha">#c2c550d</div>
+                                                <div class="message">doc: clarify estimate_curves structure</div>
+                                            </div>
                                         </div>
-                                        <div class="commit">
-                                            <div class="sha">#be26af1</div>
-                                            <div class="message">fix: set correct name for menu-bar popup</div>
-                                        </div>
-                                        <div class="commit">
-                                            <div class="sha">#151016e</div>
-                                            <div class="message">Merge pull request #13 from maikol-solis/patch-1
-
- fix: inherit keymaps from poly-R. Closes #12</div>
-                                        </div>
-                                        <div class="commit">
-                                            <div class="sha">#7e3e8c6</div>
-                                            <div class="message"> fix: inherit keymaps from poly-R. Closes #12</div>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 1 commit in
-                                            <span class="repo">maikol-solis/spatgeom</span>
-                                        </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">main</span></div>
-                                        <div class="commit">
-                                            <div class="sha">#d76bb25</div>
-                                            <div class="message">doc: clarify estimate_curves structure</div>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Pushed 1 commit in
-                                            <span class="repo">maikol-solis/spatgeom</span>
-                                        </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">main</span></div>
-                                        <div class="commit">
-                                            <div class="sha">#eff7a92</div>
-                                            <div class="message">fix: formatting to pacify lintr</div>
-                                        </div>
-                                    </div>
-                                </section>
+                                    </section>
+                                </div>
                             </div>
                         </div>
                     </section>
                 </div>
+                <div id="metrics-end"></div>
             </section>
-            <div id="metrics-end"></div>
         </div>
     </foreignObject>
 </svg>
