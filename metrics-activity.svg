@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="567" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="916" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,150 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">maikol-solis/Bitacora-Grupo-00-CA-204-II-2024</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4905752</div>
+                                        <div class="message">chore: agrega url-site al archivo quarto</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b80e7d2</div>
+                                        <div class="message">chore: agrega sitio web al README</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6418907</div>
+                                        <div class="message">chore: actualiza sitio.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd3ea8a</div>
+                                        <div class="message">chore: formatea texto en el _quarto.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3216588</div>
+                                        <div class="message">chore: agrega enlace de descarga del pdf.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0863b01</div>
+                                        <div class="message">chore: agrega enlace a repositorio github en _quarto.yaml
+
+Agrega los parámetros `repo-url` y `repo-actions`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6fa8c4</div>
+                                        <div class="message">chore: agrega barra de búsqueda en _quarto.yaml
+
+Incluye el parámetro search: true en quarto</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 11 commits in
+                                        <span class="repo">maikol-solis/Bitacora-Grupo-00-CA-204-II-2024</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9d29740</div>
+                                        <div class="message">feat: agrega url-site al archivo quarto</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d61777</div>
+                                        <div class="message">fix: agrega sitio web al README</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54df4b6</div>
+                                        <div class="message">chore: actualiza sitio.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c93c0c6</div>
+                                        <div class="message">chore: formatea texto en el _quarto.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d57b810</div>
+                                        <div class="message">feat: agrega enlace de descarga del pdf.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5940210</div>
+                                        <div class="message">feat: agrega enlace a repositorio github en _quarto.yaml
+
+Agrega los parámetros `repo-url` y `repo-actions`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5cfbee</div>
+                                        <div class="message">feat: agrega barra de búsqueda en _quarto.yaml
+
+Incluye el parámetro search: true en quarto</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b531bde</div>
+                                        <div class="message">chore: actualiza sitio.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f83f50d</div>
+                                        <div class="message">chore: modifica gitignore para incluir docs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4afac02</div>
+                                        <div class="message">chore: agrega gitignore</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1b55c9</div>
+                                        <div class="message">fix: texto de prueba para clase</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">maikol-solis/Bitacora-Grupo-00-CA-204-II-2024</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2d13560</div>
+                                        <div class="message">chore: actualiza sitio.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3ec3905</div>
+                                        <div class="message">feat: agrega descarga del pdf</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a6506a</div>
+                                        <div class="message">feat: agrega link a repositorio de github en el libro.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6bb3efd</div>
+                                        <div class="message">feat: agrega barra de búsqueda</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -134,59 +278,6 @@
                                     <div class="content">
                                         Starred
                                         <span class="repo">CisarUli/Bitacora-Grupo-6-CA-0204-II-2024-</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">JEIKEL195/Bitacora-Grupo-5-CA-0204-II-2024-</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">maikol-solis/Bitacora-Grupo-00-CA-204-II-2024</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#04e916a</div>
-                                        <div class="message">fix: cambia nombre del README</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">maikol-solis/Bitacora-Grupo-00-CA-204-II-2024</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9581ee5</div>
-                                        <div class="message">fix: cambia dirección sitio web.</div>
                                     </div>
                                 </div>
                             </section>
